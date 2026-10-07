@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ToggleTestExample",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "toggleapp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-toggleapp-Debug-07e456a2372497569909.json",
+					"name" : "toggleapp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "toggleapp_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-toggleapp_autogen-Debug-0cde9e4fdde0577f0f43.json",
+					"name" : "toggleapp_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "toggleapp_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-toggleapp_autogen_timestamp_deps-Debug-98364a1b5d7165e4b3c6.json",
+					"name" : "toggleapp_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "toggletest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-toggletest-Debug-17f15a3cab1502de7b5b.json",
+					"name" : "toggletest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "toggletest_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-toggletest_autogen-Debug-a88ea5639d114a72038a.json",
+					"name" : "toggletest_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "toggletest_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-toggletest_autogen_timestamp_deps-Debug-6c2c4ae83308f737cb85.json",
+					"name" : "toggletest_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/queri/Downloads/exercise12-QtTest-starter/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug",
+		"source" : "C:/Users/queri/Downloads/exercise12-QtTest-starter"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
